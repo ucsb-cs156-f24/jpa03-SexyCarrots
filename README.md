@@ -1,7 +1,6 @@
 # Xinghan-jpa03
 
 
-```
 
 Running at: <https://jpa03-sexycarrots.dokku-06.cs.ucsb.edu/>
 
